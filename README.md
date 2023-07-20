@@ -20,3 +20,22 @@
 <br/>Best test accuracy =  %<br/>
 <br/>Number of parameters = 6,573,120<br/>
 <br/>Number of epochs = 24<br/>
+
+<br/> **SPECIAL Thanks and Courtesy to the following people:**<br/>
+
+https://github.com/woncoh1
+
+https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
+
+https://github.com/parrotletml/era_session_seven/blob/main/mnist/dataset.py
+
+https://albumentations.ai/docs/examples/migrating_from_torchvision_to_albumentations/
+
+https://github.com/davidcpage/cifar10-fast
+
+https://github.com/parrotletml/era_session_seven/blob/main/mnist/utils.py#L111-L135
+
+https://github.com/parrotletml/era_session_seven/blob/main/mnist/utils.py#L111-L135
+
+
+
