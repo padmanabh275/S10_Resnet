@@ -1,6 +1,6 @@
-Objective of the Assignment -  <br/> 
-                            Develop a custom resnet model with 24 epochs by finding a LR and using the LR to get an accuracy of 90% plus. 
-<br/> ##Summary<br/>
+**Objective of the Assignment** -  <br/> 
+                            <br/>Develop a custom resnet model with 24 epochs by finding a LR and using the LR to get an accuracy of 90% plus.<br/> 
+<br/> Summary<br/>
                 <br/>**Dataset:** CIFAR-10
                 <br/>**Data augmentation:** Albumentations<br/>
                 <br/>*_*Model*_<br/>
