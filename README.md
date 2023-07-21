@@ -19,10 +19,23 @@
 
                 
 <br/>**Results**<br/>
+<br/>RUN 1<br/>
+
 <br/>Best train accuracy =69.45  %<br/>
 <br/>Best test accuracy = 69.80 %<br/>
 <br/>Number of parameters = 6,573,120<br/>
 <br/>Number of epochs = 24<br/>
+
+
+![download](https://github.com/padmanabh275/S10_Resnet/assets/44230428/ab571cdc-1756-4a6c-88d9-a901da5c9c53)
+
+<br/>RUN 2 - Changed the parameter reset of the plotting <br/>
+<br/>Best train accuracy =  %<br/>
+<br/>Best test accuracy =  %<br/>
+<br/>Number of parameters = 6,573,120<br/>
+<br/>Number of epochs = 24<br/>
+
+
 
 <br/> **SPECIAL Thanks and Courtesy to the following people:**<br/>
 
