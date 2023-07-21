@@ -27,8 +27,8 @@
 ![download](https://github.com/padmanabh275/S10_Resnet/assets/44230428/6be0fecd-6446-48cb-9d2e-24ee69fe26e0)
 
 <br/>RUN 2 - Changed the parameter reset of the plotting <br/>
-<br/>Best train accuracy =  %<br/>
-<br/>Best test accuracy =  %<br/>
+<br/>Best train accuracy =  65.31%<br/>
+<br/>Best test accuracy =  68.83 %<br/>
 <br/>Number of parameters = 6,573,120<br/>
 <br/>Number of epochs = 24<br/>
 
