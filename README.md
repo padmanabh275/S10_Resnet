@@ -14,6 +14,9 @@
                 <br/>**Number of parameters:** unlimited
                 <br/>**Number of epochs:** 24
 
+
+![download](https://github.com/padmanabh275/S10_Resnet/assets/44230428/6be0fecd-6446-48cb-9d2e-24ee69fe26e0)
+
                 
 <br/>**Results**<br/>
 <br/>Best train accuracy =  %<br/>
