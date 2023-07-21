@@ -32,6 +32,19 @@
 <br/>Number of parameters = 6,573,120<br/>
 <br/>Number of epochs = 24<br/>
 
+FINAL - 
+
+br/>RUN 3 - Changed the parameter of Learning Rate - end_lr=1e-3 and Learning rate at 0.03 and weight_decay=1E-3  <br/>
+
+![gradient](https://github.com/padmanabh275/S10_Resnet/assets/44230428/59f61b5d-c5cc-441f-8640-4a4c8d40b83f)
+
+
+<br/>Best train accuracy =  65.31%<br/>
+<br/>Best test accuracy =  68.83 %<br/>
+<br/>Number of parameters = 6,573,120<br/>
+<br/>Number of epochs = 24<br/>
+
+
 
 <br/> **SPECIAL Thanks and Courtesy to the following people:**<br/>
 
