@@ -19,8 +19,8 @@
 
                 
 <br/>**Results**<br/>
-<br/>Best train accuracy =  %<br/>
-<br/>Best test accuracy =  %<br/>
+<br/>Best train accuracy =69.45  %<br/>
+<br/>Best test accuracy = 69.80 %<br/>
 <br/>Number of parameters = 6,573,120<br/>
 <br/>Number of epochs = 24<br/>
 
